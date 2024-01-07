@@ -4,3 +4,5 @@ I am using the wiki page on this repository to take notes while following the GI
 
 [^1]: See the link to the course [here](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis/thinking-spatially) 
 
+
+
