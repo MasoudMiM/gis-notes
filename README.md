@@ -11,5 +11,6 @@ I am using the wiki page on this repository to take notes while following the GI
     * components of a GIS
     * where to find geospatial data
     * how the essential elements of the GIS come together to help answer questions and solve problems
-  
+
+- putting the data on a map
 
